@@ -2,8 +2,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+Pro:wght@400&display=swap");
 
 /* Create space between nav links */
-nav {
-  word-spacing: 20px;
+.nav-links {
+  margin-right: 10px;
+  margin-left: 10px;
 }
 
 /* Set the background color, text color and font family of the body */
